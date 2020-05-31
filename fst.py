@@ -1,4 +1,4 @@
 def func():
-    prin("hello")
+    print("hello")
 
 func()
